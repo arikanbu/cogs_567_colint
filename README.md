@@ -1,6 +1,3 @@
-# cogs_567_colint
-METU Cognitive Science Department, Collective Intelligence Course, COGS-567
-
 # COGS567: Collective Intelligence
 
 ### Course Overview
@@ -29,4 +26,4 @@ Primary readings from the *Handbook of Collective Intelligence* ([link](https://
 
 ---
 
-For more information, please refer to the full course syllabus.
+
