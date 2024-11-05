@@ -30,7 +30,7 @@ Primary readings from the *Handbook of Collective Intelligence* ([link](https://
 | 1    | General concepts of Collective Intelligence | -                                                | -                                                | -                                                |
 | 2    | Distributed & Extended Cognition        | -                                                | -                                                | -                                                |
 | 3    | Communication and Collective Intelligence | -                                                | -                                                | -                                                |
-| 4    | Shared and Team Mental Models           | -                                                | -                                                | -                                                |
+| 4    | Shared and Team Mental Models           | Johnson-Laird, P. N. 1989. Mental models. P. 467-499 | -                                                | -                                                |
 | 5    | Transactive Memory Systems              | -                                                | -                                                | -                                                |
 | 6    | Collective Intelligence Theories        | -                                                | -                                                | -                                                |
 | 7    | Interactive Team Cognition              | -                                                | -                                                | -                                                |
