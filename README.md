@@ -25,21 +25,15 @@ Primary readings from the *Handbook of Collective Intelligence* ([link](https://
 
 ### Weekly Readings
 
-| Week | Topic                                  | Must Read                                       | Supplementary Reading 1                           | Supplementary Reading 2                          |
+| Week | Topic                                  | Preparation Reading                                      | Assignment                           | Highlights                          |
 |------|----------------------------------------|-------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
-| 1    | General concepts of Collective Intelligence | -                                                | -                                                | -                                                |
-| 2    | Distributed & Extended Cognition        | -                                                | -                                                | -                                                |
-| 3    | Communication and Collective Intelligence | -                                                | -                                                | -                                                |
-| 4    | Shared and Team Mental Models           | Johnson-Laird, P. N. 1989. Mental models. P. 467-499 | -                                                | -                                                |
-| 5    | Transactive Memory Systems              | -                                                | -                                                | -                                                |
-| 6    | Collective Intelligence Theories        | -                                                | -                                                | -                                                |
-| 7    | Interactive Team Cognition              | -                                                | -                                                | -                                                |
-| 8    | Emergence of Team Cognition             | -                                                | -                                                | -                                                |
-| 9    | Wisdom of the Crowds (Part I)           | -                                                | -                                                | -                                                |
-| 10   | Wisdom of the Crowds (Part II)          | -                                                | -                                                | -                                                |
-| 11   | Organizational Collective Cognition     | -                                                | -                                                | -                                                |
-| 12   | Hierarchies and Complex Systems         | -                                                | -                                                | -                                                |
-| 13   | Cooperation and Collective Intelligence | -                                                | -                                                | -                                                |
-| 14   | Interactive Computing and Collective Intelligence | -                                                | -                                                | -                                                |
+| 1    | General concepts of Collective Intelligence | - | - | - |
+| 2    | - | - | - | - |
+| 3    | Wisdom of the Crowds and Jury Theorem | Wisdom of the Crowds, Surowiecki, J. (2005): Chapter 1  | - | - |
+| 4    | Extended Mind  | Clark, A., & Chalmers, D. (1998). The Extended Mind | Reading Response: Week 3 | - |
+| 5    | - | - | - | - |
+| 6    | Distributed Mind  | Hutchins: How a Cockpit Remembers Its Speeds  | Reading Response: Week 4 | - |
+| 7    | Mental Models  | Johnson-Laird, P. N. 1989. Mental models. P. 467-499 | - | - |
+| 8    | Team Mental Models  | Stakeholder Mental Model Analysis, Jones et al., 2021 | A verbal criticism of mental models | - |
 
 ---
