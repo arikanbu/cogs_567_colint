@@ -35,6 +35,6 @@ Primary readings from the *Handbook of Collective Intelligence* ([link](https://
 | 6    | Distributed Mind  | Hutchins: How a Cockpit Remembers Its Speeds  | Reading Response: Week 4 | - |
 | 7    | Mental Models  | Johnson-Laird, P. N. 1989. Mental models. P. 467-499 | - | - |
 | 8    | Team Mental Models  | Stakeholder Mental Model Analysis, Jones et al., 2021 | A verbal criticism of mental models | - |
-| 9    | Transactive Memory Systems | Computer Network Model of Human Transactive Memory, Wegner, 1995 | - | - |
-
+| 9    | Transactive Memory Systems | Computer Network Model of Human Transactive Memory, Wegner, 1995 | - | Theory by Engineering |
+| 10    | Interactive Team Cognition | Interactive Team Cognition, Cooke, N. J., 2012 | Discuss: Emergence of TMS, Master Browser Protocol, Negetive Connotations of TMS | - |
 ---
